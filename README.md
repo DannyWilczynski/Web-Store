@@ -1,7 +1,7 @@
 # Web-Store
 project for 466
 
-Customer Page: https://students.cs.niu.edu/~z1923374/customer.php? Employee Page: https://students.cs.niu.edu/~z1923374/employee.php?
+Customer Page: https://students.cs.niu.edu/~z1937658/customer.php Employee Page: https://students.cs.niu.edu/~z1937658/employee.php
 
 This was a group project we wrote for my databases class where we created a basic ecommerce website from scratch while following a guideline of goals to meet when we turn it in.
 
